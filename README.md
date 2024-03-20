@@ -1,4 +1,4 @@
-# [WACV 2023] Audio-Visual Efficient Conformer for Robust Speech Recognition
+# [ACV 2024] Audio-Visual Efficient Conformer for Robust Speech Recognition
 
 [Maxime Burchi](https://scholar.google.com/citations?user=7S_l2eAAAAAJ), [Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ)
 
