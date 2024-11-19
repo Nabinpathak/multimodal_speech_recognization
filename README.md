@@ -163,8 +163,8 @@ Evaluate Models:
 ## Citation
 
 ```
-@InProceedings{Burchi_2023_WACV,
-    author    = {Burchi, Maxime and Timofte, Radu},
+@InProceedings{nabin_2024_WACV,
+    author    = {Nabin pathak, govind, surbhi},
     title     = {Audio-Visual Efficient Conformer for Robust Speech Recognition},
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
     month     = {January},
@@ -174,5 +174,5 @@ Evaluate Models:
 ```
 
 ## Contact
-* Maxime Burchi [@burchim](https://github.com/burchim)
-* Email: [maxime.burchi@uni-wuerzburg.de](mailto:maxime.burchi@uni-wuerzburg.de)
+* Nabin Pathak [(https://github.com/burchim)
+* Email: (nabinpathak520@gmail.com)
