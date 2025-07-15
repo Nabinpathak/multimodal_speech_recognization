@@ -1,9 +1,5 @@
 # [ACV 2024] Audio-Visual Efficient Conformer for Robust Speech Recognition
 
-[Maxime Burchi](https://scholar.google.com/citations?user=7S_l2eAAAAAJ), [Radu Timofte](https://scholar.google.com/citations?user=u3MwH5kAAAAJ)
-
-[Computer Vision Lab, CAIDAS, IFI, University of Würzburg](https://www.informatik.uni-wuerzburg.de/computervision/home/)
-
 Official implementation of the Audio-Visual Efficient Conformer (AVEC) for Robust Speech Recognition.
 
 [Installation](#Installation) |
