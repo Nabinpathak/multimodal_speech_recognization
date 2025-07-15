@@ -6,7 +6,6 @@
 
 Official implementation of the Audio-Visual Efficient Conformer (AVEC) for Robust Speech Recognition.
 
-**Audio-Visual Efficient Conformer [Paper](https://openaccess.thecvf.com/content/WACV2023/html/Burchi_Audio-Visual_Efficient_Conformer_for_Robust_Speech_Recognition_WACV_2023_paper.html) |
 [Installation](#Installation) |
 [Models](#Models) |
 [Contact](#Contact)**
@@ -172,5 +171,5 @@ Evaluate Models:
 ```
 
 ## Contact
-* Nabin Pathak [(https://github.com/burchim)
+* Nabin Pathak [(https://github.com/nabinpathak)
 * Email: (nabinpathak520@gmail.com)
